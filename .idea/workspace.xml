@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8719562d-29f5-4b9e-9fbe-53c3869efc23" name="Default Changelist" comment="" />
+    <list default="true" id="8719562d-29f5-4b9e-9fbe-53c3869efc23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch12_if-else-if_else/06_if-elseif-else/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch12_if-else-if_else/07_if-elseif-elseif-else/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch12_if-else-if_else/08_divisibleByThree/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13_exercise-solution/01_hello-world/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13_exercise-solution/02_hello-Name/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13_exercise-solution/03_hello-user-input/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13_exercise-solution/04_user-enter-numbers/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13_exercise-solution/08_just-fyi/01_benchMark/bm_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13_exercise-solution/08_just-fyi/02_bench_mark/bm_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/01_main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/02_param-arg/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/03_two-params/01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/03_two-params/02/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/04_return/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/05_return_naming/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/06_return-multiple/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/07_variadic_params/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/08_variadic-args/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/09_slice-param-arg/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,10 +53,16 @@
     </option>
   </component>
   <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1hgycf88Zkx7KmV5QlXgTfk4oDZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,6 +71,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
@@ -52,69 +82,70 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\goproject\go-learn-2\ch14_functions\03_two-params\01" />
       <recent name="D:\goproject\go-learn-2\ch12_if-else-if_else\01_eval-true" />
       <recent name="D:\goproject\go-learn-2\ch10_for-loop\07_rune-loo_UTF-8\01" />
       <recent name="D:\goproject\go-learn-2\ch8_pointers\01_referencing" />
       <recent name="D:\goproject\go-learn-2\ch5_blank-identifier\02_http-get_example\01_with-error-checking" />
-      <recent name="D:\goproject\go-learn-2\ch4_scope" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build go-learn-2/ch12_if-else-if_else/04_init-statement_error_invalid-code">
-    <configuration name="go build go-learn-2/ch11_swich-statements/04_no-expression" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build go-learn-2/ch14_functions/09_slice-param-arg">
+    <configuration name="go build go-learn-2/ch14_functions/05_return_naming" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-learn-2" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/ch11_swich-statements/04_no-expression/main.go" />
-      <package value="go-learn-2/ch11_swich-statements/04_no-expression" />
+      <filePath value="$PROJECT_DIR$/ch14_functions/05_return_naming/main.go" />
+      <package value="go-learn-2/ch14_functions/05_return_naming" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build go-learn-2/ch11_swich-statements/05_on-type" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build go-learn-2/ch14_functions/06_return-multiple" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-learn-2" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/ch11_swich-statements/05_on-type/main.go" />
-      <package value="go-learn-2/ch11_swich-statements/05_on-type" />
+      <filePath value="$PROJECT_DIR$/ch14_functions/06_return-multiple/main.go" />
+      <package value="go-learn-2/ch14_functions/06_return-multiple" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build go-learn-2/ch12_if-else-if_else/02_not-exclamation" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build go-learn-2/ch14_functions/07_variadic_params" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-learn-2" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/ch12_if-else-if_else/02_not-exclamation/main.go" />
-      <package value="go-learn-2/ch12_if-else-if_else/02_not-exclamation" />
+      <filePath value="$PROJECT_DIR$/ch14_functions/07_variadic_params/main.go" />
+      <package value="go-learn-2/ch14_functions/07_variadic_params" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build go-learn-2/ch12_if-else-if_else/04_init-statement_error_invalid-code" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build go-learn-2/ch14_functions/08_variadic-args" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-learn-2" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/ch12_if-else-if_else/04_init-statement_error_invalid-code/main.go" />
-      <package value="go-learn-2/ch12_if-else-if_else/04_init-statement_error_invalid-code" />
+      <filePath value="$PROJECT_DIR$/ch14_functions/08_variadic-args/main.go" />
+      <package value="go-learn-2/ch14_functions/08_variadic-args" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build go-learn-2/ch14_functions/09_slice-param-arg" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-learn-2" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ch12_if-else-if_else/03_init-statement/main.go" />
-      <package value="go-learn-2" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/ch14_functions/09_slice-param-arg/main.go" />
+      <package value="go-learn-2/ch14_functions/09_slice-param-arg" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build go-learn-2/ch12_if-else-if_else/04_init-statement_error_invalid-code" />
-        <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build go-learn-2/ch12_if-else-if_else/02_not-exclamation" />
-        <item itemvalue="Go Build.go build go-learn-2/ch11_swich-statements/05_on-type" />
-        <item itemvalue="Go Build.go build go-learn-2/ch11_swich-statements/04_no-expression" />
+        <item itemvalue="Go Build.go build go-learn-2/ch14_functions/09_slice-param-arg" />
+        <item itemvalue="Go Build.go build go-learn-2/ch14_functions/08_variadic-args" />
+        <item itemvalue="Go Build.go build go-learn-2/ch14_functions/07_variadic_params" />
+        <item itemvalue="Go Build.go build go-learn-2/ch14_functions/06_return-multiple" />
+        <item itemvalue="Go Build.go build go-learn-2/ch14_functions/05_return_naming" />
       </list>
     </recent_temporary>
   </component>
@@ -146,29 +177,37 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="423" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600925931807" />
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1600939978887">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600939978887" />
     <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1600685342891">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600685342891" />
-    <state width="1202" height="198" key="GridCell.Tab.0.bottom" timestamp="1600927200994">
+    <state width="1237" height="137" key="GridCell.Tab.0.bottom" timestamp="1600939838867">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1202" height="198" key="GridCell.Tab.0.bottom/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600927200994" />
-    <state width="1202" height="198" key="GridCell.Tab.0.center" timestamp="1600927200994">
+    <state width="1237" height="137" key="GridCell.Tab.0.bottom/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600939838867" />
+    <state width="1237" height="137" key="GridCell.Tab.0.center" timestamp="1600939838867">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1202" height="198" key="GridCell.Tab.0.center/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600927200994" />
-    <state width="1202" height="198" key="GridCell.Tab.0.left" timestamp="1600927200994">
+    <state width="1237" height="137" key="GridCell.Tab.0.center/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600939838867" />
+    <state width="1237" height="137" key="GridCell.Tab.0.left" timestamp="1600939838867">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1202" height="198" key="GridCell.Tab.0.left/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600927200994" />
-    <state width="1202" height="198" key="GridCell.Tab.0.right" timestamp="1600927200994">
+    <state width="1237" height="137" key="GridCell.Tab.0.left/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600939838867" />
+    <state width="1237" height="137" key="GridCell.Tab.0.right" timestamp="1600939838867">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1202" height="198" key="GridCell.Tab.0.right/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600927200994" />
-    <state x="371" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1600917923955">
+    <state width="1237" height="137" key="GridCell.Tab.0.right/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600939838867" />
+    <state x="144" y="6" key="SettingsEditor" timestamp="1600932651764">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="371" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600917923955" />
+    <state x="144" y="6" key="SettingsEditor/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600932651764" />
+    <state x="371" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1600927358450">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600927358450" />
   </component>
 </project>

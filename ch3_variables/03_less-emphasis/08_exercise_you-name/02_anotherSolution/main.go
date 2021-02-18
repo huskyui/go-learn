@@ -2,6 +2,6 @@ package main
 import "fmt"
 
 func main(){
-	var name = "huskyyyyyui"
+	var name = "husky"
 	fmt.Println(name)
 }

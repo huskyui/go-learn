@@ -2,11 +2,11 @@ package main
 
 import "fmt"
 
-func main()  {
+func main() {
 	var message string
 	// b,c default value is 0
-	var a,b,c int
+	var a, b, c int
 	a = 1
 	message = "hello,world"
-	fmt.Println(message,a,b,c)
+	fmt.Println(message, a, b, c)
 }

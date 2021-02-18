@@ -2,28 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8719562d-29f5-4b9e-9fbe-53c3869efc23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch12_if-else-if_else/06_if-elseif-else/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch12_if-else-if_else/07_if-elseif-elseif-else/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch12_if-else-if_else/08_divisibleByThree/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13_exercise-solution/01_hello-world/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13_exercise-solution/02_hello-Name/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13_exercise-solution/03_hello-user-input/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13_exercise-solution/04_user-enter-numbers/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13_exercise-solution/08_just-fyi/01_benchMark/bm_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13_exercise-solution/08_just-fyi/02_bench_mark/bm_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch14_functions/01_main/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch14_functions/02_param-arg/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch14_functions/03_two-params/01/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch14_functions/03_two-params/02/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch14_functions/04_return/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch14_functions/05_return_naming/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch14_functions/06_return-multiple/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch14_functions/07_variadic_params/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch14_functions/08_variadic-args/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch14_functions/09_slice-param-arg/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/10_function-expression/01_before-funtion-expression/01_before-function-expression.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/10_function-expression/02_function-expression/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/10_function-expression/03_function-expression-show-type/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/10_function-expression/04_another_way_function-expression/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/10_function-expression/05_anther_way_function_express_show_type/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/11_closure/01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/11_closure/02/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/11_closure/03/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/11_closure/04/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/11_closure/05/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/12_callbacks/01_print-nums/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/12_callbacks/02_filter-nums/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/13_recursion/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/14_defer/01_no-defer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/14_defer/02_defer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/15_passing-by-value/01_int/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/15_passing-by-value/02_int-pointer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/15_passing-by-value/03_string/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/15_passing-by-value/04_string-pointer/change.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/15_passing-by-value/04_string-pointer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/15_passing-by-value/05_REFERNCE_TYPE/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/15_passing-by-value/06_REFERENCE_TYPE/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/15_passing-by-value/07_struct-pointer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_functions/16_another_self-executing/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15_bool-expressions/01_true-false/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15_bool-expressions/02_not/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15_bool-expressions/03_or/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15_bool-expressions/04_and/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch16_exercise-solutions/01_half/01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch16_exercise-solutions/01_half/02/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch16_exercise-solutions/02_function-expression/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch16_exercise-solutions/03_variadic-greatest/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch16_exercise-solutions/04_bool-expression/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch16_exercise-solutions/05_params-and-args/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch17_array/01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch17_array/02/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch17_array/03/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch17_array/04/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch17_array/05/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch18_slice/01_int-slice/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch18_slice/02_int-slice/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch18_slice/03_int-slice/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch18_slice/04_string-slice/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch18_slice/05_slicing-a-slice/01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch18_slice/05_slicing-a-slice/02/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch18_slice/06_make/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch18_slice/07_append-invalid/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch2_package/stringutil/reverseTwo.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch2_package/stringutil/reverseTwo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3_variables/03_less-emphasis/01_declare-variable/var.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch3_variables/03_less-emphasis/01_declare-variable/var.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3_variables/03_less-emphasis/02_declare-many-at-once/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch3_variables/03_less-emphasis/02_declare-many-at-once/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3_variables/03_less-emphasis/08_exercise_you-name/02_anotherSolution/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch3_variables/03_less-emphasis/08_exercise_you-name/02_anotherSolution/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3_variables/03_less-emphasis/08_exercise_you-name/03_anotherSolution/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch3_variables/03_less-emphasis/08_exercise_you-name/03_anotherSolution/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4_scope/01_package-scope/02_visibility/main/main.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,17 +97,17 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="D:/gitclonepackage/GolangTraining" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gitclonepackage/GolangTraining" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -86,86 +118,84 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\goproject\go-learn-2\ch14_functions\15_passing-by-value\03_string" />
+      <recent name="D:\goproject\go-learn-2\ch14_functions\10_function-expression\01_before-funtion-expression" />
       <recent name="D:\goproject\go-learn-2\ch14_functions\03_two-params\01" />
       <recent name="D:\goproject\go-learn-2\ch12_if-else-if_else\01_eval-true" />
       <recent name="D:\goproject\go-learn-2\ch10_for-loop\07_rune-loo_UTF-8\01" />
-      <recent name="D:\goproject\go-learn-2\ch8_pointers\01_referencing" />
-      <recent name="D:\goproject\go-learn-2\ch5_blank-identifier\02_http-get_example\01_with-error-checking" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build go-learn-2/ch14_functions/09_slice-param-arg">
-    <configuration name="go build go-learn-2/ch14_functions/05_return_naming" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build go-learn-2/ch18_slice/07_append-invalid">
+    <configuration name="go build go-learn-2/ch18_slice/04_string-slice" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-learn-2" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/ch14_functions/05_return_naming/main.go" />
-      <package value="go-learn-2/ch14_functions/05_return_naming" />
-      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/ch18_slice/04_string-slice/main.go" />
+      <package value="go-learn-2/ch18_slice/04_string-slice" />
+      <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build go-learn-2/ch14_functions/06_return-multiple" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build go-learn-2/ch18_slice/05_slicing-a-slice/01" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-learn-2" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/ch14_functions/06_return-multiple/main.go" />
-      <package value="go-learn-2/ch14_functions/06_return-multiple" />
-      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/ch18_slice/05_slicing-a-slice/01/main.go" />
+      <package value="go-learn-2/ch18_slice/05_slicing-a-slice/01" />
+      <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build go-learn-2/ch14_functions/07_variadic_params" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build go-learn-2/ch18_slice/05_slicing-a-slice/02" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-learn-2" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/ch14_functions/07_variadic_params/main.go" />
-      <package value="go-learn-2/ch14_functions/07_variadic_params" />
-      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/ch18_slice/05_slicing-a-slice/02/main.go" />
+      <package value="go-learn-2/ch18_slice/05_slicing-a-slice/02" />
+      <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build go-learn-2/ch14_functions/08_variadic-args" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build go-learn-2/ch18_slice/06_make" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-learn-2" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/ch14_functions/08_variadic-args/main.go" />
-      <package value="go-learn-2/ch14_functions/08_variadic-args" />
-      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/ch18_slice/06_make/main.go" />
+      <package value="go-learn-2/ch18_slice/06_make" />
+      <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build go-learn-2/ch14_functions/09_slice-param-arg" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build go-learn-2/ch18_slice/07_append-invalid" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-learn-2" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/ch14_functions/09_slice-param-arg/main.go" />
-      <package value="go-learn-2/ch14_functions/09_slice-param-arg" />
-      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/ch18_slice/07_append-invalid/main.go" />
+      <package value="go-learn-2/ch18_slice/07_append-invalid" />
+      <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build go-learn-2/ch14_functions/09_slice-param-arg" />
-        <item itemvalue="Go Build.go build go-learn-2/ch14_functions/08_variadic-args" />
-        <item itemvalue="Go Build.go build go-learn-2/ch14_functions/07_variadic_params" />
-        <item itemvalue="Go Build.go build go-learn-2/ch14_functions/06_return-multiple" />
-        <item itemvalue="Go Build.go build go-learn-2/ch14_functions/05_return_naming" />
+        <item itemvalue="Go Build.go build go-learn-2/ch18_slice/07_append-invalid" />
+        <item itemvalue="Go Build.go build go-learn-2/ch18_slice/06_make" />
+        <item itemvalue="Go Build.go build go-learn-2/ch18_slice/05_slicing-a-slice/02" />
+        <item itemvalue="Go Build.go build go-learn-2/ch18_slice/05_slicing-a-slice/01" />
+        <item itemvalue="Go Build.go build go-learn-2/ch18_slice/04_string-slice" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="if function" />
+    <option name="LAST_COMMIT_MESSAGE" value="if function" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="direct" />
+      </map>
+    </environment>
     <proxy>direct</proxy>
   </component>
   <component name="WindowStateProjectService">
@@ -177,34 +207,62 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="423" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600925931807" />
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1600939978887">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1600940194938">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600939978887" />
-    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1600685342891">
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600940194938" />
+    <state width="1239" height="191" key="GridCell.Tab.0.bottom" timestamp="1609409791778">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600685342891" />
-    <state width="1237" height="137" key="GridCell.Tab.0.bottom" timestamp="1600939838867">
+    <state width="1239" height="191" key="GridCell.Tab.0.bottom/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1609409791778" />
+    <state width="1239" height="191" key="GridCell.Tab.0.center" timestamp="1609409791778">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="137" key="GridCell.Tab.0.bottom/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600939838867" />
-    <state width="1237" height="137" key="GridCell.Tab.0.center" timestamp="1600939838867">
+    <state width="1239" height="191" key="GridCell.Tab.0.center/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1609409791778" />
+    <state width="1239" height="191" key="GridCell.Tab.0.left" timestamp="1609409791778">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="137" key="GridCell.Tab.0.center/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600939838867" />
-    <state width="1237" height="137" key="GridCell.Tab.0.left" timestamp="1600939838867">
+    <state width="1239" height="191" key="GridCell.Tab.0.left/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1609409791778" />
+    <state width="1239" height="191" key="GridCell.Tab.0.right" timestamp="1609409791778">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="137" key="GridCell.Tab.0.left/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600939838867" />
-    <state width="1237" height="137" key="GridCell.Tab.0.right" timestamp="1600939838867">
+    <state width="1239" height="191" key="GridCell.Tab.0.right/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1609409791778" />
+    <state width="1239" height="220" key="GridCell.Tab.1.bottom" timestamp="1606820422031">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="137" key="GridCell.Tab.0.right/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600939838867" />
-    <state x="144" y="6" key="SettingsEditor" timestamp="1600932651764">
+    <state width="1239" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1606820422031" />
+    <state width="1239" height="220" key="GridCell.Tab.1.center" timestamp="1606820422031">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="144" y="6" key="SettingsEditor/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600932651764" />
+    <state width="1239" height="220" key="GridCell.Tab.1.center/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1606820422031" />
+    <state width="1239" height="220" key="GridCell.Tab.1.left" timestamp="1606820422031">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1239" height="220" key="GridCell.Tab.1.left/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1606820422031" />
+    <state width="1239" height="220" key="GridCell.Tab.1.right" timestamp="1606820422031">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1239" height="220" key="GridCell.Tab.1.right/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1606820422031" />
+    <state x="144" y="6" key="SettingsEditor" timestamp="1606813227216">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="144" y="6" key="SettingsEditor/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1606813227216" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1600940205549">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600940205549" />
+    <state x="415" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606818121210">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="415" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1606818121210" />
+    <state x="358" y="152" key="git4idea.merge.GitPullDialog" timestamp="1600940201035">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="358" y="152" key="git4idea.merge.GitPullDialog/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1600940201035" />
+    <state x="473" y="122" key="refactoring.ChangeSignatureDialog" timestamp="1606976510401">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="473" y="122" key="refactoring.ChangeSignatureDialog/0.0.1280.720/-1920.10.1920.1080@0.0.1280.720" timestamp="1606976510401" />
     <state x="371" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1600927358450">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
